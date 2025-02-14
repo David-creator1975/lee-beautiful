@@ -1,0 +1,37 @@
+.lee-wrapper{display:flex;
+             height:100dvh;
+             justify-content: center;
+             align-items: center;
+    }
+
+
+     body{background-color:#77C3EC;
+    }
+
+    .pretty{font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 5rem;
+            color:#FF81C1;
+            
+          
+            
+
+    }
+
+    .prettyone{font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 5rem;
+        color:#FF81C1;
+        transform: rotate(-2deg);}
+
+    h1{height:10rem;
+    text-align: center;}
+
+    .leeone{color:#FF1396;
+           
+    
+    }
+
+    .leetwo{color:#FD5C9D;
+        
+    }
+
+    .fa-heart{color:firebrick;}
